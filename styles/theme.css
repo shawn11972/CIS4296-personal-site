@@ -35,7 +35,7 @@
 
 .navbar-nav {
     --bs-nav-link-padding-x: 0;
-    --bs-nav-link-padding-y: 1rem;
+    --bs-nav-link-padding-y: .5rem;
     --bs-nav-link-color: white;
     --bs-nav-link-hover-color: white;
 
