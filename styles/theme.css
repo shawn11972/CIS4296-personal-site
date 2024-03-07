@@ -1,7 +1,7 @@
 :root {
     --temple-red-dark: rgb(142, 154, 208);
     --bs-primary: #80a5c6;
-    --bs-primary-rgb: 158, 27, 52;
+    --bs-primary-rgb: 0, 127, 152;
     --bs-primary-dark: #4779a6;
     --bs-primary-dark-rgb: 136, 24, 35;
 
@@ -62,3 +62,4 @@
     margin-right: 10px;
     margin-top: 20px;
 }
+
